@@ -15,7 +15,7 @@ import { Checkbox } from '@/components/ui/checkbox'
 import { motion } from 'framer-motion'
 import { useState } from 'react'
 import {
-  Card, CardContent, CardHeader, CardTitle, CardFooter
+  Card, CardContent, CardHeader, CardTitle
 } from '@/components/ui/card'
 
 const categories = ['Singer', 'Dancer', 'DJ', 'Speaker']
